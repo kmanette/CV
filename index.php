@@ -3,20 +3,20 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>C.V.</title>
-		<link rel="Shortcut Icon" href="branches/images/Key-M.png">
-		<link href="branches/css/humanity/jquery-ui-1.10.3.custom.css" rel="stylesheet" type="text/css" media="screen">
+		<link rel="Shortcut Icon" href="images/Key-M.png">
+		<link href="css/humanity/jquery-ui-1.10.3.custom.css" rel="stylesheet" type="text/css" media="screen">
         <!--<link rel="stylesheet" href="css/normalize.css" />
   		<link rel="stylesheet" href="css/foundation.css" />-->
-        <link rel="stylesheet" href="branches/css/kube.css" />
-        <link rel="stylesheet" href="branches/css/master.css" />
+        <link rel="stylesheet" href="css/kube.css" />
+        <link rel="stylesheet" href="css/master.css" />
         
-        <link rel="stylesheet" href="branches/css/style.css" />
+        <link rel="stylesheet" href="css/style.css" />
 
- 		 <script src="branches/js/vendor/custom.modernizr.js"></script>
-		<script type="text/javascript" src="branches/js/jquery-1.10.2.js"></script>
-		<script type="text/javascript" src="branches/js/jquery-ui-1.10.3.custom.js"></script>
-		<script type="text/javascript" src="branches/js/style.js"></script>
-        <script type="text/javascript" src="branches/foundation-4.3.2/js/foundation.min.js"></script>
+ 		 <script src="js/vendor/custom.modernizr.js"></script>
+		<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.10.3.custom.js"></script>
+		<script type="text/javascript" src="js/style.js"></script>
+        <script type="text/javascript" src="foundation-4.3.2/js/foundation.min.js"></script>
   
 		
 	</head>
@@ -193,6 +193,6 @@
 				$(document).foundation();
 			  </script>-->
         
-        <script type="text/javascript" src="branches/js/kube.tabs.js"></script>
+        <script type="text/javascript" src="js/kube.tabs.js"></script>
 	</body>
 </html>
