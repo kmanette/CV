@@ -14,7 +14,6 @@
 
  		 <script src="js/vendor/custom.modernizr.js"></script>
 		<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
-		<script type="text/javascript" src="js/jquery-ui-1.10.3.custom.js"></script>
 		<script type="text/javascript" src="js/style.js"></script>
         <script type="text/javascript" src="foundation-4.3.2/js/foundation.min.js"></script>
   
